@@ -39,6 +39,8 @@
 
 - [Divide and Conquer Technique](https://www.geeksforgeeks.org/introduction-to-divide-and-conquer-algorithm-data-structure-and-algorithm-tutorials/)
 
+- [How to find time complexity of an algorithm](https://github.com/10-3-pursuit/10-3-resources/blob/main/dsa-resources.md)
+
 ### Web Links
 
 - [GeeksforGeeks - Learn Data Structures and Algorithms | DSA Tutorial](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?utm_source=Website&utm_medium=Landing+Page+Click&utm_campaign=DSA+Page+Tracker&utm_id=DSA-Page-Tracker&utm_term=DSA+Page+Promo&utm_content=Course+Page)
